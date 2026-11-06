@@ -29,7 +29,7 @@ frontend:
 
   image:
     repository: sachinrh18/careertrack-frontend
-    tag: latest
+    tag: "ebb33b52684cd86725ad1bf7d9309b8767fcfc83"
     pullPolicy: Always
 
   service:
